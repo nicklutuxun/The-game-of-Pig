@@ -10,4 +10,3 @@ GITHUB_PAGE=https://cs280spring-classroom.github.io/the-game-of-pig-nicklutuxun/
 ```
 
 Please refer to the description of Homework-1, Full-Stack JavaScript (Spring 2022) for details.
-# The-game-of-Pig
